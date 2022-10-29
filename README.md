@@ -1,6 +1,7 @@
 - 👋 Hi, My name is Sevda but you can call me Sev!
 
-- 👀 I am looking to be a future front end developer, so I'm currently making some projects on my own on CSS/HTML.
+- 👀 I am looking to be a future front end developer or a Data Analyst!
+That is why I'm currently making some projects on my own on CSS/HTML.
 
 - 🌱 I’m full-time learning to CSS by myself, but as a curious person, I also look at some Codepen.io's projects and test my 
 level at CSS Battle. I also have a YouTube Channel where I post how i break levels.
